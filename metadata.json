@@ -1,0 +1,8 @@
+{
+  "name": "MyndMap",
+  "description": "NCERT-compiled UPSC & UPPSC notes, interactive concept mind maps, flowcharts, high-yield Prelims & Mains keywords, quizzes, tests, and AI revision assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
